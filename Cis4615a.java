@@ -16,7 +16,7 @@ public class Cis4615a {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World - Leland Dutcher CIS4615 - Fall 2020 - UCF");
+        System.out.println("Hello, World - CIS4615 - Fall 2020 - UCF");
     }
 
 }
