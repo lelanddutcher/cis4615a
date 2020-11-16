@@ -1,3 +1,5 @@
+// rule 00 fix
+
 Logger sanLogger = new SanitizedTextLogger(logger);
  
 if (loginSuccessful) {
